@@ -124,7 +124,7 @@ Check object retention. Change bucket object lock configuration.
     - Ensure object cannot be deleted.
     - Ensure object cannot be overwritten.
 
-Create bucket with object lock enabled. Put object with legal hold. Remove
+- Create bucket with object lock enabled. Put object with legal hold. Remove
 legal hold.
     - Ensure object can be deleted.
     - Ensure object can be overwritten.
